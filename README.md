@@ -49,7 +49,6 @@ IPv6 网络接口（默认 br-lan）
 3. 手动配置（可选）
 如果不想用一键安装，也可以手动配置：
 
-bash
 ## 下载脚本
 ```bash
 wget -O /etc/dynv6-update.sh https://raw.githubusercontent.com/yourname/dynv6-multi-host-updater/main/dynv6-update.sh
