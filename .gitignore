@@ -1,0 +1,30 @@
+# 临时文件
+*.tmp
+*.bak
+*.swp
+*~
+
+# 日志文件
+*.log
+
+# 本地配置备份
+*.local
+*.backup
+
+# macOS 系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 编辑器文件
+.vscode/
+.idea/
+*.sublime-*
+
+# 测试输出
+test_output/
+test_*.txt
+
+# 旧版本备份
+*.old
+*.orig
